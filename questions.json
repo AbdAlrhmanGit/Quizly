@@ -1,0 +1,82 @@
+[
+    {
+        "title": "What is the capital city of Egypt?",
+        "Answer-one": "Hurghada",
+        "Answer-two": "Cairo",
+        "Answer-three": "Giza",
+        "Answer-four": "Al Fayoum",
+        "right-Answer": "Cairo"
+    },
+    {
+        "title": "What is the result of 220 - 200 / 10?",
+        "Answer-one": "40",
+        "Answer-two": "42",
+        "Answer-three": "240",
+        "Answer-four": "200",
+        "right-Answer": "200"
+    },
+    {
+        "title": "What do you call a moose that nobody knows?",
+        "Answer-one": "Famous",
+        "Answer-two": "Unknown moose",
+        "Answer-three": "Mooseless",
+        "Answer-four": "Anonymoose",
+        "right-Answer": "Anonymoose"
+    },
+    {
+        "title": "What do you call a moose that everybody knows?",
+        "Answer-one": "Fa-moose",
+        "Answer-two": "Unknown moose",
+        "Answer-three": "Mooseless",
+        "Answer-four": "Anonymoose",
+        "right-Answer": "Fa-moose"
+    },
+    {
+        "title": "How old was the Prophet Muhammad when he died?",
+        "Answer-one": "44",
+        "Answer-two": "63",
+        "Answer-three": "66",
+        "Answer-four": "52",
+        "right-Answer": "63"
+    },
+    {
+        "title": "What is the capital city of France?",
+        "Answer-one": "Paris",
+        "Answer-two": "London",
+        "Answer-three": "Tokyo",
+        "Answer-four": "Ghazl El Mahalla",
+        "right-Answer": "Paris"
+    },
+    {
+        "title": "Which planet is known as the Red Planet?",
+        "Answer-one": "Earth",
+        "Answer-two": "Mars",
+        "Answer-three": "Jupiter",
+        "Answer-four": "Venus",
+        "right-Answer": "Mars"
+    },
+    {
+        "title": "Which language is mainly used to style web pages?",
+        "Answer-one": "HTML",
+        "Answer-two": "CSS",
+        "Answer-three": "Python",
+        "Answer-four": "C++",
+        "right-Answer": "CSS"
+    },
+    {
+        "title": "How many continents are there on Earth?",
+        "Answer-one": "5",
+        "Answer-two": "6",
+        "Answer-three": "7",
+        "Answer-four": "8",
+        "right-Answer": "7"
+    },
+    {
+        "title": "Why did the computer sit next to the heater?",
+        "Answer-one": "Because it was cold",
+        "Answer-two": "Because it wanted to warm its bytes",
+        "Answer-three": "Because it was broken",
+        "Answer-four": "Because it had no chair",
+        "right-Answer": "Because it wanted to warm its bytes"
+    }
+]
